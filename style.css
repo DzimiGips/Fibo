@@ -1,0 +1,77 @@
+#header {
+	width: 100%;
+}
+
+#menu {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+.menu-button {
+	font-size: 20px;
+}
+
+.title {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.photoTitle {
+	text-align: center;
+}
+
+.photoBoxLeft {	
+	position: relative;
+	width: 30%;
+	margin-left: 15%;
+	float:left;
+	margin-top: 10px;
+	margin-bottom: 50px;	
+}
+
+.photoBoxRight {	
+	position: relative;
+	width: 30%;
+	margin-right: 15%;
+	float:right;
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+
+.photo {
+	width: 100%;
+}
+
+.mask {
+	position: absolute;
+	top: 40%;
+	left: 10%;
+	right: 10%;
+	display: none;
+}
+
+.mask h2,
+.mask p {
+	color: white;
+}
+
+#fibonacci #main {
+	position: relative;
+	width: 600px;
+	margin: auto;
+}
+
+#fibonacci input {
+	margin-left: 150px;
+	width: 220px;
+}
+
+#fibonacci button {
+	width: 80px;
+}
+
+#result {
+	margin-top: 20px;
+	text-align:center;
+}
